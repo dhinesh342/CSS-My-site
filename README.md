@@ -1,1 +1,1 @@
-My site created with CSS and HTML
+Website created with CSS and HTML
